@@ -3,6 +3,8 @@
 
 ## Current Application is analogy of Apple's application "Notification". Current application using only Xcode based frameworks and kits such as UIKit and CoreData. Main idea of application is make similar application like apple's "Notification" starting from UI and ended functionallities.
 
+### ***Before using you need to unarchive Pods.zip in Notification Application Folder***
+
 ## **Main Objectives:**
 1. Main Page. This page display table view and other tiles with user's notes and notifications. Table view consist of "Sort group" and have different categories which user choose by himself. Also this page has some edits function for edit cell, delete and adding new group categories. Separate tiles using for display different types categories of notification such as "Today","Tomorrow","All","Ended";
 <img src="https://user-images.githubusercontent.com/70747233/212134247-c0fc8546-d4ba-4503-86ea-60ff38973c63.png" width="150">
