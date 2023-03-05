@@ -1,5 +1,4 @@
 # Notification App
-## 
 
 ## Current Application is analogy of Apple's application "Notification". Current application using only Xcode based frameworks and kits such as UIKit and CoreData. Main idea of application is make similar application like apple's "Notification" starting from UI and ended functionallities.
 
